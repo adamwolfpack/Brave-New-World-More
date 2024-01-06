@@ -42,7 +42,7 @@
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
         "weight": 3
-	"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [150] XP]",
+	"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [150] XP"],
     },
 	
     {
@@ -58,7 +58,8 @@
         "name": "find a crudely-drawn map",
         "notification": "We have found a crudely-drawn map in the ruins!",
         "weight": 1
-	"uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [500] tiles away with [100]% chance", "Only available <before founding a Pantheon>"]
+	"uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [500] tiles away with [100]% chance", "Only available <before founding a Pantheon>"],
+        "color": "#81c984"
     },
 	
     {
