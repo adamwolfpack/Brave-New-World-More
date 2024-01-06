@@ -42,7 +42,7 @@
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
         "weight": 3
-	"uniques": ["This Unit upgrades for free including special upgrades"]
+	"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [150] XP]",
     },
 	
     {
@@ -58,21 +58,21 @@
         "name": "find a crudely-drawn map",
         "notification": "We have found a crudely-drawn map in the ruins!",
         "weight": 1
-	"uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [500] tiles away with [80]% chance", "Only available <before founding a Pantheon> <before the [Enlightenment era]>"]
+	"uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [500] tiles away with [100]% chance", "Only available <before founding a Pantheon>"]
     },
 	
     {
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
         "weight": 1
-	"uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon> <before the [Enlightenment era]>"],
+	"uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>"],
 		"color": "#CDDDF4"
     },
     {
         "name": "an ancient prophecy",
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
         "weight": 1
-	"uniques": ["Hidden when religion is disabled", "Gain enough Faith for [100]% of a Great Prophet", "Hidden after generating a Great Prophet", "Only available <before the [Enlightenment era]>"],
+	"uniques": ["Hidden when religion is disabled", "Gain enough Faith for [100]% of a Great Prophet", "Hidden after generating a Great Prophet", "Only available <after founding a Pantheon>"],
 		"color": "#CDDDF4"
     }
 ]
